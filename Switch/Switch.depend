@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634329710 source:d:\alxer\platzi\playground\switch\main.c
+	<stdio.h>
+	<stdlib.h>
+

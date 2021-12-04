@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1636228995 source:d:\alxer\platzi\playground\librerias\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1636229003 d:\alxer\platzi\playground\librerias\operaciones.h
+

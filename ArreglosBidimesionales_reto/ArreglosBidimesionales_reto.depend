@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1634588275 source:d:\alxer\platzi\playground\arreglosbidimesionales_reto\main.c
+	<stdio.h>
+	<stdlib.h>
+
